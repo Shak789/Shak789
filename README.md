@@ -4,6 +4,4 @@
 
 <h1 align = "center">Shakeel Jivraj</h1>
 
-<h2 align="center">Welcome to my Github!</h2>
-
-<div id="header" align="center">
+### About Me ###
