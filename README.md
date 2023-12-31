@@ -11,3 +11,11 @@
 - I have a strong interest in software development. My goal is to leverage my programming and problem-solving skills to create applications that solve real-world problems. I recently created an <a href="https://github.com/Shak789/DecisionMate" target="_blank">Android Application</a> for first-year Computer and Mathematical Sciences students at the Univeristy of Toronto Scarborough to determine if they have qualified for a Program of Study.
 - Beyond my technical pursuits, I am passionate about teaching mathematics. I have developed a <a href="https://www.udemy.com/user/shakeel-jivraj/" target="_blank">two-part mathematics course on Udemy</a>, an online learning platform. The course aims to impart pre-algebra concepts and refine students' skills through practice questions
 - During my free time, you can find me working out and catching up on the latest hockey news.
+
+### Technologies ###
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+
+  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandanBurgess&layout=compact&theme=github_dark" alt="Brandan's Top Languages">
+</div>
