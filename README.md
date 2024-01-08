@@ -7,7 +7,7 @@
 <h2 align = "center">Welcome to my Github! </h2>
 
 ### About Me ###
-- I am a second-year Statistics student at the University of Toronto, where I am specializing in Data Science and Machine Learning. I am actively seeking software engineering internships for Summer/Fall 2024.
+- I am a second-year Statistics student at the University of Toronto, where I am specializing in Data Science and Machine Learning.
 - I have a strong interest in software development. My goal is to leverage my programming and problem-solving skills to create applications that solve real-world problems:
   - I recently built an <a href="https://github.com/Shak789/DecisionMate" target="_blank">Android Application</a> to help first-year Computer and Mathematical Sciences students at the University of Toronto Scarborough determine if they have qualified for a Program of Study.
   - Using Spring Boot and MongoDB, I developed a <a href="https://github.com/Shak789/HockeyBackend" target="_blank">REST API</a> to manage player data for hockey leagues. Since many smaller hockey leagues are unable to track statistics, this REST API enables leagues to track and analyze data, so teams can accurately measure the performance of players. The API can be integrated with a frontend application to provide a user-friendly experience for leagues with technical constraints.
