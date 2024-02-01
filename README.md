@@ -11,7 +11,7 @@
 - I have a strong interest in software development. My goal is to leverage my programming and problem-solving skills to create applications that solve real-world problems:
   - I recently built an <a href="https://github.com/Shak789/DecisionMate" target="_blank">Android Application</a> to help first-year Computer and Mathematical Sciences students at the University of Toronto Scarborough determine if they have qualified for a Program of Study.
   - Using Spring Boot and MongoDB, I developed a <a href="https://github.com/Shak789/HockeyBackend" target="_blank">REST API</a> to manage player data for hockey leagues. Since many smaller hockey leagues are unable to track statistics, this REST API enables leagues to track and analyze data, so teams can accurately measure the performance of players. The API can be integrated with a frontend application to provide a user-friendly experience for leagues with technical constraints.
-- Beyond my technical pursuits, I am passionate about teaching mathematics. I have developed a <a href="https://www.udemy.com/user/shakeel-jivraj/" target="_blank">two-part mathematics course on Udemy</a>, which is an online learning platform. 
+- Beyond my technical pursuits, I am passionate about teaching mathematics. I have developed a <a href="https://www.udemy.com/user/shakeel-jivraj/" target="_blank">two-part mathematics course on Udemy</a> to help students improve their skills in pre-algebra.
 - During my free time, you can find me working out and catching up on the latest hockey news.
 
 ### Technologies ###
