@@ -7,11 +7,11 @@ I am entering my third-year as a Statistics student at the University of Toronto
 
 I have a strong passion for statistical analysis and Machine Learning, and my current interests lie in sports analytics. I recently conducted [research](https://www.researchgate.net/publication/380347690_Analysis_of_NHL_Goalscoring_in_Critical_Situations) on the performance of NHL players in close and tied games, and I developed a classification system to discern their goalscoring in critical game scenarios.
 
-## What I'm Currently Learning ##
-I am currently expanding my knowledge of deep learning by exploring PyTorch and TensorFlow.
-
 ### Technologies ###
 [![My Skills](https://skillicons.dev/icons?i=python,r,mysql,sklearn,git,&theme=dark)](https://skillicons.dev)
+
+## What I'm Currently Learning ##
+I am currently expanding my knowledge of deep learning by exploring PyTorch and TensorFlow.
 
 
 </div>
