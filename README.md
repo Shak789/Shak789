@@ -11,7 +11,8 @@ I have a strong passion for statistical analysis and Machine Learning, and my cu
 I am currently expanding my knowledge of deep learning by exploring PyTorch and TensorFlow.
 
 ### Technologies ###
-[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,sklearn,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,sklearn,&theme=dark)](https://skillicons.dev)
+<a href="PNG/Power-BI.png">
 
 
 </div>
