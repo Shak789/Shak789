@@ -10,7 +10,7 @@ I have a strong passion for statistical analysis and Machine Learning, and my cu
 ### Technologies ###
 [![My Skills](https://skillicons.dev/icons?i=python,r,mysql,sklearn,git,&theme=dark)](https://skillicons.dev)
 
-## What I'm Currently Learning ##
+### What I'm Currently Learning ###
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,&theme=dark)](https://skillicons.dev)
 
 </div>
