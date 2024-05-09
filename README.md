@@ -1,4 +1,4 @@
-<h1 align = "center">👋 href="https://shakeeljivraj.netlify.app/">Shakeel Jivraj </h1>
+<h1 align = "center">👋 <a href="https://shakeeljivraj.netlify.app/">Shakeel Jivraj</a> </h1>
 
 <h2 align = "center">Welcome to my Github! </h2>
 
